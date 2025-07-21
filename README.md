@@ -19,7 +19,7 @@
 - Frontend	React.js + Vite + Tailwind CSS
 - Backend	Spring Boot with JWT Authentication
 - Database	MySQL
-- 
+
 ---
 
 ### 📦 Setup & Installation
@@ -62,3 +62,6 @@
 - Pagination for job listings
 - Profile section for users to update resumes
 --- 
+
+### 👨‍🎓 Author
+- Kumaresan D
