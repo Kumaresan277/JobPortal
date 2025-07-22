@@ -37,7 +37,7 @@
 ![Home](./Screenshots/Admin_Dashboard.png)
 
 #### Job List
-![Home](./Screenshots/Job_List.png)
+![Home](./Screenshots/JobList.png)
 
 ---
 
