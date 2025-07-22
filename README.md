@@ -27,6 +27,9 @@
 #### Home Page 
 ![Home](./Screenshots/Home_Page.png)
 
+#### Job List
+![Home](./Screenshots/JobList.png)
+
 #### Create Account
 ![Home](./Screenshots/Create_Account.png)
 
@@ -36,8 +39,7 @@
 #### Admin Dashboard
 ![Home](./Screenshots/Admin_Dashboard.png)
 
-#### Job List
-![Home](./Screenshots/JobList.png)
+
 
 ---
 
