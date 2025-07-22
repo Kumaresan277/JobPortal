@@ -22,6 +22,25 @@
 
 ---
 
+### 📌 Screenshots
+
+#### Home Page 
+![Home](./Screenshots/Home_Page.png)
+
+#### Create Account
+![Home](./Screenshots/Create_Account.png)
+
+#### Login Page
+![Home](./Screenshots/Login_Page.png)
+
+#### Admin Dashboard
+![Home](./Screenshots/Admin_Dashboard.png)
+
+#### Job List
+![Home](./Screenshots/Job_List.png)
+
+---
+
 ### 📦 Setup & Installation
 #### 🔹 Backend (Spring Boot)
 
